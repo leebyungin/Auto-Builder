@@ -1,0 +1,15 @@
+﻿  소스.cpp
+C:\Users\leebi\source\repos\WaveFunctionCollapse\WaveFunctionCollapse\소스.cpp(7,13): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\leebi\source\repos\WaveFunctionCollapse\WaveFunctionCollapse\소스.cpp(7,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\leebi\source\repos\WaveFunctionCollapse\WaveFunctionCollapse\소스.cpp(228,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\leebi\source\repos\WaveFunctionCollapse\WaveFunctionCollapse\소스.cpp(233,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\leebi\source\repos\WaveFunctionCollapse\WaveFunctionCollapse\소스.cpp(238,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\leebi\source\repos\WaveFunctionCollapse\WaveFunctionCollapse\소스.cpp(243,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\leebi\source\repos\WaveFunctionCollapse\WaveFunctionCollapse\소스.cpp(348,18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\leebi\source\repos\WaveFunctionCollapse\WaveFunctionCollapse\소스.cpp(349,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  1 of 147 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  WaveFunctionCollapse.vcxproj -> C:\Users\leebi\source\repos\WaveFunctionCollapse\Release\toycode.exe

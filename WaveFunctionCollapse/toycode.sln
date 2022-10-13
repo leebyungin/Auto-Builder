@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WaveFunctionCollapse", "WaveFunctionCollapse\WaveFunctionCollapse.vcxproj", "{2DC95C30-43E8-4BB0-A883-C4D0947A9D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC95C30-43E8-4BB0-A883-C4D0947A9D09}.Debug|x64.ActiveCfg = Debug|x64
+		{2DC95C30-43E8-4BB0-A883-C4D0947A9D09}.Debug|x64.Build.0 = Debug|x64
+		{2DC95C30-43E8-4BB0-A883-C4D0947A9D09}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DC95C30-43E8-4BB0-A883-C4D0947A9D09}.Debug|x86.Build.0 = Debug|Win32
+		{2DC95C30-43E8-4BB0-A883-C4D0947A9D09}.Release|x64.ActiveCfg = Release|x64
+		{2DC95C30-43E8-4BB0-A883-C4D0947A9D09}.Release|x64.Build.0 = Release|x64
+		{2DC95C30-43E8-4BB0-A883-C4D0947A9D09}.Release|x86.ActiveCfg = Release|Win32
+		{2DC95C30-43E8-4BB0-A883-C4D0947A9D09}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51227DA9-1AC1-49E0-95E8-56F69003C7D2}
+	EndGlobalSection
+EndGlobal
